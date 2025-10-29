@@ -1,4 +1,4 @@
-> ⚠️ **Project Status: In Active Development**  
+> ⚠️ **In Development**  
 > Changes may occur without notice.
 
 # Go App Template
@@ -6,7 +6,9 @@
 A starter template for Go applications.
 
 ---
+
 ## 🛠️ Description 
+
 Designed to accelerate project bootstrap by providing a clean 
 architecture, preconfigured modules and so on
 
